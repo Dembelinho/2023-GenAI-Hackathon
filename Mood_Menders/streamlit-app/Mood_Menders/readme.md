@@ -1,5 +1,5 @@
 
-# AI Coach
+# AI Coach --LIFE ADVISE--
 
 ## Overview
 
@@ -70,4 +70,4 @@ each interaction to provide increasingly valuable guidance.
 
 - Special thanks to the open-source community.
 
-
+![logo life advise](https://github.com/Dembelinho/2023-GenAI-Hackathon/assets/110602716/09e1c247-d0e2-4d43-a6a8-84938b638198)
