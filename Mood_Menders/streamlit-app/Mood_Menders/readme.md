@@ -1,5 +1,4 @@
 
-```markdown
 # AI Coach
 
 ## Overview
@@ -70,6 +69,5 @@ approaches, adapting to individual preferences and learning from
 each interaction to provide increasingly valuable guidance.
 
 - Special thanks to the open-source community.
-- Icon designed by [Freepik](https://www.freepik.com).
-```
+
 
